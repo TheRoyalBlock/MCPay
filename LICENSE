@@ -1,0 +1,101 @@
+MCPay Software Usage License v0.0.1
+=========================================
+This license must be included with all MCPay Software used.
+--------------------------------------------------------------------------------------------------------------------------------------
+The License: refers to the MCPay Software Usage License v0.0.1.
+The Software: refers to any works licensed under The License.
+The User: refers to any user of The Software licensed under The License.
+The Main Developer: refers to Lewis Brindley who has all rights.
+The Owner: refers to MCPay.
+--------------------------------------------------------------------------------------------------------------------------------------
+Section 1 - Allowances:
+
+  1. The User Can:
+    a. Request new features, and support.
+    b. Use The Software with The License only.
+
+  2. The Owner Can:
+    a. Change or update The Software in any way they wish, ensuring they follow the other terms of The License.
+    b. Grant extra rights to The User who has requested them.
+    
+  3. The Main Developer can:
+    a. Unlicense.
+    b. Grant extra rights to The Owner.
+    c. Remove rights from The Owner and The User.
+    d. Modify the License in any way.
+
+Section 2 - Restrictions:
+  1. Both The User & The Owner Cannot:
+    a. Introduce any malicious code into The Software.
+    b. Unlicense.
+    c. Commit any criminal offence as stated by U.S Laws and the International Laws where applicable.
+
+  2. The User Cannot:
+    a. Hold The Owner responsible for any unknown errors however can request The Owner to fix them.
+    b. Claim The Software as entirely The User's product.
+    c. Use the software without The License which states it as property of The Owner.
+
+  3. The Owner Cannot:
+    a. Restrict The User in any way not specified by The License.
+    b. Distribute any form of The Software without proper documentation.
+    
+  4. The Main Developer cannot:
+    a. Introduce any malicious code into The Software.
+    b. Commit any criminal offence as stated by U.S Laws and the International Laws where applicable.
+
+  Term. The term of this Public License is specified in Section 6(a).
+    No modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so.
+
+  Downstream recipients.
+    Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+    No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+    No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a).
+
+  Other rights.
+    Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+    Patent and trademark rights are not licensed under this Public License.
+    To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
+
+Section 3 – License Conditions.
+  Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+
+  a) Attribution.
+    If you download The Software, You must:
+      retain the following if it is supplied by the Licensor with the Licensed Material:
+        identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+        a copyright notice;
+        a notice that refers to this Public License;
+        a notice that refers to the disclaimer of warranties;
+        a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+        indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+      You may satisfy the conditions in Section 3(a) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material.
+      If requested by the Licensor, You must remove any of the information required by Section 3(a) to the extent reasonably practicable.
+
+    c) Open Source.
+      Anyone requiring The Software must be linked to it through any medium. Software stays Open-source until suggested otherwise by The Main Developer.
+
+    d) Free.
+      Anyone requiring a copy of The Software must be linked to it through any medium. Software stays free until suggested otherwise by The Main Developer.
+
+Section 5 – Disclaimer of Warranties and Limitation of Liability.
+
+  Any criminal offence commited using The Software makes the warranty VOID and removes any Liability to The Main Developer/The Owner.
+
+Section 6 – Term and Termination.
+  
+  In a case where you choose not to accept The License, you may not use The Software.
+  In a case where you modified The Software in any manner, degree, or medium - you may not use The Software or the modified version of The Software.
+  In a case where you choose to sell The Software or any Software requesting access to this Software, you first must contact The Main Developer and request permission. You may not sell The Software/modified version of Software/any Software requesting access of The Software without permission.
+
+Section 7 – Other Terms and Conditions.
+
+  There are no other terms of this license then the ones stated in any other Section.
+
+Section 8 – Change.
+  
+  This License is governed by the U.S Laws and the International Laws, and may be changed according to them. You, The User agrees to update the License whenever applicable.
+  If the latest version of The License isn't with The Software, The Software may not be used.
+
+Section 9 - Originality.
+
+  This license is a modified version of another license. It is not governed by any terms of the parent license. This license is considered original.
